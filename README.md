@@ -1,5 +1,5 @@
 <!-- Title -->
-<!--<img align="left" alt="Me" src="https://i.imgur.com/X3Xeh4F.png"/> -->
+
 <h1>Hi, I'm Diego</h1>
 <h3>A jr. full stack web developer from Italy</h3>
 
