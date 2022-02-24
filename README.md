@@ -1,19 +1,19 @@
 <!-- Title -->
 <img align="left" alt="Me" src="https://i.imgur.com/X3Xeh4F.png"/>
-<h1>Hi, I'm Chiara</h1>
+<h1>Hi, I'm Diego</h1>
 <h3>A jr. full stack web developer from Italy</h3>
 
 <!-- Profile view -->
-<img src="https://komarev.com/ghpvc/?username=ChiaraPapagni" alt="ChiaraPapagni" />
+<img src="https://komarev.com/ghpvc/?username=DiegoDenuccio" alt="DiegoDenuccio" />
 
 <!-- About -->
 <h3>A little more about me...</h3>
 
 ```javascript
-const chiara = {
-  pronouns: 'she' | 'her',
+const Diego = {
+  pronouns: 'he',
   code: [HTML, CSS, JavaScript, PHP],
-  tools: [Bootstrap, Vue.js, Laravel, NPM],
+  tools: [Bootstrap, Vue.js, Laravel, NPM, Html, Css],
   currentFocus: 'Building Robots to ease opertations',
   askMeAbout: ['web dev', 'tech', 'fantasy books', 'super heroes'],
 }
@@ -44,7 +44,7 @@ const chiara = {
 <br>
 <!-- LinkedIn -->
 <h3>Connect with me:</h3>
-<a href="https://www.linkedin.com/in/chiara-papagni-2a4948b3/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ChiaraPapagni LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/diego-denuccio-723356232/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="DiegoDenuccio LinkedIn"/></a>
 <!-- 
 <a href="chiarapapagni-dev@gmail.com" target="blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ChiaraPapagni Gmail"/>
