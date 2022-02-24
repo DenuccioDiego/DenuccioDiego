@@ -21,11 +21,8 @@ const Diego = {
 
 <!-- Languages and Tools -->
 <h3>Languages and Tools:</h3>
-<img align="left" src="JavaScript   20 hrs 29 mins  ██████████████████▓░░░░░░   74.42 % 
-SCSS         3 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-TypeScript   2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-HTML         1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-XML          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % "/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaraPapagni&layout=compact&hide_title=1&card_width=250"/>
+<p align="left">
 <p align="left">
   <code><img title="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg"></code>
   <code><img title="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg"></code>
