@@ -21,7 +21,7 @@ const Diego = {
 
 <!-- Languages and Tools -->
 <h3>Languages and Tools:</h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaraPapagnii&layout=compact&hide_title=1&card_width=250"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenuccioDiego&layout=compact&hide_title=1&card_width=250"/>
 <p align="left">
 <p align="left">
   <code><img title="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg"></code>
